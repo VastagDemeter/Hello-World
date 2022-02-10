@@ -11,3 +11,6 @@ My first repository
 * 8
 * 9
 * 10
+
+
+Házi Feladat
